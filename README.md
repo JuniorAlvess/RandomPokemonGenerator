@@ -5,7 +5,7 @@
 <table>
     <tr>
     <th>
-            Web Interface - Desktop Dark Mode
+            Web Interface - Desktop
         </th>
         <th>
             Web Interface - Mobile
